@@ -1,8 +1,8 @@
-.container{
+
     
-}
+
 header h2{
-    background-color: rgb(228, 7, 7);
+    background-color: rgb(45, 45, 63);
     text-align: center;
     height: 30px;
     width: 500px;
@@ -15,6 +15,28 @@ small{
 }
 .half-width{
     display: flex;
+    /* margin-left: 5px; */
+    justify-content: space-between;
+    background-color: rgb(236, 219, 219);
+}
+
+.flexo{
+    display: flex;
     justify-content: space-around;
-    background-color: rgb(235, 225, 225);
+    border: 1px solid grey;
+    background-color:palegoldenrod;
+    /* margin-top: 10px; */
+}
+.history{
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 10px; */
+    font-weight: 700;
+}
+.middle{
+    
+    background-color: rgb(236, 219, 219);
+    height: 1000px;
+    width: 400px;
+    padding: 10px;
 }
