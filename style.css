@@ -6,8 +6,8 @@ header h2{
     text-align: center;
     height: 30px;
     width: 400px;
-    color: floralwhite;
-    margin-left: 250px;
+    color: white;
+    margin-left: 300px;
     
 }
 small{
@@ -37,6 +37,12 @@ small{
     
     background-color: rgb(236, 219, 219);
     height: 800px;
-    width: 400px;
+    width: 500px;
     padding: 10px;
+}
+footer{
+    background-color:rgb(45, 45, 63) ;
+    color: white;
+    text-align: center;
+    padding: 5px;
 }
