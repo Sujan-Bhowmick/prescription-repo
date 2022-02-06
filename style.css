@@ -7,7 +7,7 @@ header h2{
     height: 30px;
     width: 400px;
     color: floralwhite;
-    margin-left: 300px;
+    margin-left: 200px;
     
 }
 small{
@@ -36,7 +36,7 @@ small{
 .middle{
     
     background-color: rgb(236, 219, 219);
-    height: 1000px;
+    height: 800px;
     width: 400px;
     padding: 10px;
 }
